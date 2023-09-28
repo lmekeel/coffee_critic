@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coffee Critic</string>
+
+    <string name="home_page">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="find_coffee">Find Coffee</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="find_coffee_shops_near_you">Find Coffee Shops Near You!</string>
+    <string name="i_am_here">I am here!</string>
+</resources>

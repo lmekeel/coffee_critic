@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/find_coffee"
+        android:icon="@drawable/baseline_coffee_home"
+        android:id="@+id/nav_home"/>
+
+    <item android:title="@string/favorites"
+        android:icon="@drawable/baseline_star_favorites"
+        android:id="@+id/nav_favs"/>
+
+
+</menu>
