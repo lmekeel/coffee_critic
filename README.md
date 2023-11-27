@@ -1,5 +1,5 @@
 # Coffee Critic
-I started this app as a project for school but never finished. It needs a lot of restricting and additions!\
+I started this app as a project for school but never finished. It needs a lot of restructuring and additions!\
 I welcome anyone who would like to make changes/updates to this project! Feel free to send me a message or make a pull request.
 
 # Description/App Idea
